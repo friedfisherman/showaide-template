@@ -1,0 +1,1 @@
+# showaide-template
